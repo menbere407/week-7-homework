@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "week-7-homework",
+			"path": ".."
+		},
+		{
+			"name": "final-project-for-week-6",
+			"path": "../../final-project-for-week-6"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "week-7-homework"
+	}
+}
